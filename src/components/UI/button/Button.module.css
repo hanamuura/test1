@@ -1,0 +1,14 @@
+.MyBtn {
+    padding: 5px 15px;
+    color: teal;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid teal;
+    cursor: pointer;
+}
+
+.MyBtn {
+    color: teal;
+    transition: all 0.5s;
+    position: relative;
+}
